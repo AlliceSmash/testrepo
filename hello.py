@@ -1,7 +1,6 @@
 import requests
-
-
 # print(sys.version)
+
 
 
 def greet(who_to_greet):
